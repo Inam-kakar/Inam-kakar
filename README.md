@@ -6,20 +6,23 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,30:2563EB,65:0891B2,100:06B6D4&height=235&section=header&text=Inam%20Ullah&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineering%20%7C%20Machine%20Learning%20%7C%20Forward-Deployed%20Systems&descAlignY=57&descSize=18&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:071E5B,35:0B4DB8,70:0875D1,100:04A5D8&height=245&section=header&text=Inam%20Ullah&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineering%20%7C%20Machine%20Learning%20%7C%20Forward-Deployed%20Systems&descAlignY=57&descSize=19&animation=fadeIn"
   alt="Inam Ullah"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+solve+real+problems;Connecting+models%2C+APIs%2C+data%2C+and+interfaces;Forward-deployed+mindset%3A+understand%2C+integrate%2C+deliver"
+  width="100%"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=FDE68A&background=0B4DB8&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=90&lines=Building+AI+systems+that+solve+real+problems;Connecting+models%2C+APIs%2C+data%2C+and+interfaces;Forward-deployed+mindset%3A+understand%2C+integrate%2C+deliver"
   alt="Professional introduction"
 />
 
 <br>
 
-**Second-year Computer Science student at the University of Debrecen building intelligent systems from research idea to real-world product.**
+### Second-year Computer Science student at the University of Debrecen
 
-<br><br>
+**Building intelligent systems from research ideas to real-world products.**
+
+<br>
 
 <a href="linkedin.com/in/inam-kakar-019931266">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -51,9 +54,9 @@
 
 <img
   width="100%"
-  height="6"
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:7C3AED,45:2563EB,70:06B6D4,100:0D1117&height=6"
-  alt="Gradient divider"
+  height="8"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:071E5B,35:0B4DB8,70:0875D1,100:04A5D8&height=8"
+  alt="Blue divider"
 />
 
 </div>
@@ -64,7 +67,7 @@ I work across **artificial intelligence, machine learning, software engineering,
 
 My approach follows a **forward-deployed engineering mindset**: understand the real problem, identify the right technologies, integrate models and services, and deliver an end-to-end system that people can actually use.
 
-Currently developing deeper expertise in **neural networks, machine-learning algorithms, LLMs, generative AI, agentic systems, prompt engineering, AI evaluation, backend platforms, frontend products, and production deployment**.
+I am currently developing deeper expertise in **neural networks, machine-learning algorithms, LLMs, generative AI, agentic systems, prompt engineering, AI evaluation, backend platforms, frontend products, automation, and production deployment**.
 
 ---
 
@@ -158,7 +161,7 @@ Automation and research tools for structured collection, inspection, provenance 
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [RepoLens](https://github.com/Inam-kakar/RepoLens.git)
+### 🔎 [RepoLens](YOUR_REPOLENS_URL)
 
 > A developer-focused platform for exploring repositories and transforming complex codebase information into structured, actionable engineering context.
 
@@ -167,12 +170,12 @@ Automation and research tools for structured collection, inspection, provenance 
 - Repository intelligence
 - AI-assisted code understanding
 - Structured technical analysis
-- Developer workflow automation
+- Developer-workflow automation
 - Tool and API integration
 
 <br>
 
-**Stack / Focus**
+**Stack and focus**
 
 <img src="https://img.shields.io/badge/Repository_Intelligence-1F6FEB?style=flat-square" alt="Repository Intelligence">
 <img src="https://img.shields.io/badge/AI_Analysis-7C3AED?style=flat-square" alt="AI Analysis">
@@ -299,15 +302,15 @@ Automation and research tools for structured collection, inspection, provenance 
 
 ---
 
-## 📈 Last Six Months of GitHub Activity
-
 ## 📈 Recent GitHub Activity
 
 <div align="center">
 
-[![Inam Ullah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Inam-kakar&bg_color=0D1117&color=C9D1D9&title_color=58A6FF&line=7C3AED&point=22D3EE&area=true&area_color=2563EB&hide_border=true&radius=16&height=350&days=90&custom_title=Last%2090%20Days%20of%20GitHub%20Activity)](https://github.com/Inam-kakar)
+[![Inam Ullah's recent GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=Inam-kakar&bg_color=05080F&color=C9D1D9&title_color=58A6FF&line=2F81F7&point=FDE68A&area=true&area_color=0B4DB8&hide_border=true&radius=12&height=380&days=90&grid=true&custom_title=Recent%2090%20Days%20of%20GitHub%20Activity)](https://github.com/Inam-kakar)
 
 </div>
+
+> This chart reflects contributions recognized by GitHub during the latest 90 days.
 
 ---
 
@@ -317,13 +320,19 @@ Automation and research tools for structured collection, inspection, provenance 
 
 <img
   width="100%"
-  src="https://ghchart.rshah.org/39d353/Inam-kakar"
-  alt="Inam Ullah GitHub contribution graph"
+  src="https://ghchart.rshah.org/00C853/Inam-kakar"
+  alt="Inam Ullah GitHub contribution calendar"
 />
 
-<br><br>
+</div>
 
-### 🐍 Contribution Snake
+> The static calendar appears immediately when the profile opens. The external calendar controls its inactive-cell styling; GitHub README Markdown cannot recolor individual cells with CSS.
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source
@@ -336,12 +345,18 @@ Automation and research tools for structured collection, inspection, provenance 
   >
   <img
     width="100%"
-    alt="Inam Ullah GitHub contribution snake animation"
+    alt="Inam Ullah contribution snake animation"
     src="https://raw.githubusercontent.com/Inam-kakar/Inam-kakar/output/github-contribution-grid-snake.svg"
   >
 </picture>
 
 </div>
+
+> The complete contribution calendar is shown immediately above. The snake remains an optional animation and does not need to finish before visitors can see your activity.
+
+---
+
+<div align="center">
 
 ### Open to building intelligent systems across research, engineering, and real-world deployment
 
@@ -352,5 +367,13 @@ Automation and research tools for structured collection, inspection, provenance 
 <br><br>
 
 **Debrecen, Hungary**
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+·
+<a href="mailto:YOUR_EMAIL_ADDRESS">Email</a>
+·
+<a href="https://github.com/Inam-kakar">GitHub</a>
 
 </div>
