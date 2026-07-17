@@ -170,6 +170,33 @@ Full-Stack Systems      Developer Tools         Production Workflows
     srcset="https://raw.githubusercontent.com/Inam-kakar/Inam-kakar/output/github-contribution-grid-snake.svg"
   >
   <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Inam-kakar/Inam-kakar/output/github-contribution-grid-snake.svg"
+  >
+</picture>
+
+
+
+
+
+
+
+
+
+
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Inam-kakar/Inam-kakar/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Inam-kakar/Inam-kakar/output/github-contribution-grid-snake.svg"
+  >
+  <img
     alt="GitHub contribution animation"
     src="https://raw.githubusercontent.com/Inam-kakar/Inam-kakar/output/github-contribution-grid-snake.svg"
   >
@@ -197,6 +224,14 @@ Full-Stack Systems      Developer Tools         Production Workflows
 
 ---
 
+
+
+
+
+
+
+
+
 <div align="center">
 
 ### Open to AI Engineering, ML Engineering, Backend Engineering, and Forward-Deployed Engineering opportunities
@@ -207,6 +242,13 @@ Full-Stack Systems      Developer Tools         Production Workflows
 ·
 <a href="mailto:inamkakar16@gmal.com">Email</a>
 ·
+
+
+
+
+
+
+
 
 
 </div>
