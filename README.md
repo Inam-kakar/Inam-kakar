@@ -1,24 +1,212 @@
-# 💫 About Me:
-## About Me<br><br>🔭 AI-powered tools, API integrations, automation, and production-ready workflows  <br>🤝 Open-source collaboration in AI, developer tools, and research automation  <br>🌱 Machine Learning, Neural Networks, LLMs, Generative AI, and Prompt Engineering  <br>💬 Python, FastAPI, React, APIs, AI applications, and full-stack development  <br>⚡ Forward-deployed mindset: understand the problem, integrate the right tools, deliver practical solutions  <br>🎓 Second-year Computer Science student at the University of Debrecen
+<div align="center">
 
+# Inam Ullah
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/inam-kakar-019931266/) 
+### AI & Software Engineering Student · Applied AI Systems · Integration Engineering
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Inam-kakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Inam-kakar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Inam-kakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Building practical AI systems that connect models, APIs, data, and real-world workflows.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Inam-kakar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Inam-kakar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:YOUR_EMAIL_ADDRESS">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/Inam-kakar">
+  <img src="https://img.shields.io/badge/GitHub-Inam--kakar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Inam-kakar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I am a second-year **Computer Science student at the University of Debrecen**, focused on building useful software at the intersection of artificial intelligence, backend engineering, and product development.
+
+I work with a **forward-deployed engineering mindset**: understand the real problem, connect the right technologies, and deliver a usable end-to-end solution.
+
+- 🔭 Building AI-powered developer and research tools
+- 🧠 Exploring machine learning, neural networks, LLMs, and generative AI
+- ⚙️ Integrating models, APIs, databases, automation, and frontend applications
+- 🧪 Interested in prompt engineering, evaluation, provenance, and reproducible workflows
+- 📍 Based in Debrecen, Hungary
+- 💼 Open to AI, ML, backend, full-stack, and forward-deployed engineering opportunities
+
+---
+
+## ⚡ What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Applied AI Systems
+
+LLM-enabled applications, prompt workflows, intelligent automation, structured outputs, and systems that turn AI capabilities into practical tools.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Integration Engineering
+
+End-to-end systems connecting APIs, application services, databases, external platforms, and user-facing interfaces.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning
+
+Machine learning foundations, neural networks, model experimentation, evaluation, and the engineering required to move from an idea to a working system.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Research Software
+
+Tools for structured data collection, provenance, inspection, annotation, reproducibility, and research-ready exports.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [RepoLens](YOUR_REPOLENS_URL)
+
+A developer-focused system for exploring software repositories and turning complex codebase information into structured, actionable context.
+
+**Focus**
+
+- Repository intelligence
+- AI-assisted code understanding
+- Tool and API integration
+- Developer workflows
+- Structured analysis
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤺 [Fencing Video Research Agent](https://github.com/Inam-kakar/Fencing-Video-Research-Agent)
+
+A full-stack research application for collecting, inspecting, annotating, and exporting fencing-video metadata with reproducible provenance.
+
+**Focus**
+
+- Official YouTube Data API integration
+- Controlled browser and CLI collection
+- Local metadata inspection
+- Research annotation workflows
+- CSV and JSON export
+
+**Stack:** Python · FastAPI · React · TypeScript · SQLite
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Machine Learning        Neural Networks         LLM Applications
+Generative AI           Prompt Engineering      AI Evaluation
+Backend Engineering     API Integration         Research Automation
+Full-Stack Systems      Developer Tools         Production Workflows
+```
+
+---
+
+## 🛠️ Technology Stack
+
+| Area | Technologies and Concepts |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · SQL |
+| **AI and ML** | Machine Learning · Neural Networks · LLMs · Generative AI · Prompt Engineering |
+| **Backend** | FastAPI · REST APIs · Typer · SQLAlchemy · Alembic |
+| **Frontend** | React · TypeScript · Vite |
+| **Data** | SQLite · pandas · Structured Data Pipelines |
+| **Testing** | pytest · Ruff · mypy · Frontend Type Checking |
+| **Engineering** | Git · GitHub · CI Workflows · API Integration · Clean Architecture |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Inam-kakar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inam-kakar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages">
+
+</div>
+
+> Language statistics reflect repository code and do not necessarily represent overall proficiency.
+
+---
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Inam-kakar/Inam-kakar/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Inam-kakar/Inam-kakar/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="GitHub contribution animation"
+    src="https://raw.githubusercontent.com/Inam-kakar/Inam-kakar/output/github-contribution-grid-snake.svg"
+  >
+</picture>
+
+---
+
+<details>
+<summary><strong>🔬 Research and Learning Interests</strong></summary>
+
+<br>
+
+- Large language model applications
+- Generative AI systems
+- Prompt design and evaluation
+- Neural-network fundamentals
+- Machine-learning experimentation
+- AI-assisted software engineering
+- Human-in-the-loop workflows
+- Research-data provenance
+- Reliable API and tool integration
+- Production-oriented AI engineering
+
+</details>
+
+---
+
+<div align="center">
+
+### Open to AI Engineering, ML Engineering, Backend Engineering, and Forward-Deployed Engineering opportunities
+
+**Debrecen, Hungary**
+
+<a href="linkedin.com/in/inam-kakar-019931266">LinkedIn</a>
+·
+<a href="mailto:inamkakar16@gmal.com">Email</a>
+·
+
+
+</div>
