@@ -301,13 +301,11 @@ Automation and research tools for structured collection, inspection, provenance 
 
 ## 📈 Last Six Months of GitHub Activity
 
+## 📈 Recent GitHub Activity
+
 <div align="center">
 
-<img
-  width="100%"
-  src="https://raw.githubusercontent.com/Inam-kakar/Inam-kakar/output/contribution-graph.svg"
-  alt="Inam Ullah six-month GitHub contribution graph"
-/>
+[![Inam Ullah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Inam-kakar&bg_color=0D1117&color=C9D1D9&title_color=58A6FF&line=7C3AED&point=22D3EE&area=true&area_color=2563EB&hide_border=true&radius=16&height=350&days=90&custom_title=Last%2090%20Days%20of%20GitHub%20Activity)](https://github.com/Inam-kakar)
 
 </div>
 
