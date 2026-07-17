@@ -311,9 +311,19 @@ Automation and research tools for structured collection, inspection, provenance 
 
 ---
 
-## 🐍 Contribution Snake
+## 🟩 GitHub Contributions
 
 <div align="center">
+
+<img
+  width="100%"
+  src="https://ghchart.rshah.org/39d353/Inam-kakar"
+  alt="Inam Ullah GitHub contribution graph"
+/>
+
+<br><br>
+
+### 🐍 Contribution Snake
 
 <picture>
   <source
@@ -326,16 +336,12 @@ Automation and research tools for structured collection, inspection, provenance 
   >
   <img
     width="100%"
-    alt="Inam Ullah GitHub contribution snake"
+    alt="Inam Ullah GitHub contribution snake animation"
     src="https://raw.githubusercontent.com/Inam-kakar/Inam-kakar/output/github-contribution-grid-snake.svg"
   >
 </picture>
 
 </div>
-
----
-
-<div align="center">
 
 ### Open to building intelligent systems across research, engineering, and real-world deployment
 
