@@ -314,17 +314,7 @@ Automation and research tools for structured collection, inspection, provenance 
 
 ---
 
-## 🟩 GitHub Contributions
 
-<div align="center">
-
-<img
-  width="100%"
-  src="https://ghchart.rshah.org/00C853/Inam-kakar"
-  alt="Inam Ullah GitHub contribution calendar"
-/>
-
-</div>
 
 > The static calendar appears immediately when the profile opens. The external calendar controls its inactive-cell styling; GitHub README Markdown cannot recolor individual cells with CSS.
 
